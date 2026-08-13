@@ -1,0 +1,1 @@
+{"name": "simple-html-page", "version": "1.0.0", "description": "A simple HTML page", "main": "index.html", "scripts": {"start": "echo 'Starting simple HTML page...'", "test": "echo 'Testing simple HTML page...'"}, "keywords": [], "author": "", "license": "ISC"}
